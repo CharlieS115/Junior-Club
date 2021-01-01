@@ -52,5 +52,14 @@ Parents of children already a part of the Juior Club are always looking for even
 
 #### Wireframes
 
-[Wireframes](https://github.com/CharlieS115/Junior-Club/blob/6024cb2d51c2fd67de1726549b4b77b1c848e382/assets/wireframes/Junior%20Club%20Wireframes.pdf)
+Link to - [Wireframes](https://balsamiq.cloud/sg2nw91/ptckitt)
 
+The wireframes show the structure for the planned site. This site has a Home, Events and Gallery Page. The wireframes show how the site will look on a desktop, table and phone (Large+, medium and small screen sizes respectively)
+
+## Features
+
+### Existing Features
+
+* Fixed Navbar - Gives the users a piont of reference as allows for easy movement between the pages.
+
+### Potential Future Features
