@@ -1,45 +1,56 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# NSC Junior Club
 
-Welcome USER_NAME,
+This site it to be created to help promote NSC Junior Club and to allow parents of the junior participants a place to source all information they may be looking for regarding schedules, events, contact information and more. The aim is to create a fluid, userfriendly site the also looks appealing and is consitant with the groups goals and colour schemes for consitancy and brand image.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## UX
 
-## Gitpod Reminders
+### Project goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The primary goal of NSC Junior Club is to improve young skiers and snowboarders's technique inside a safe and fun enviroment and increase interest in this sport. This site will aid this primary goal by allowing a place that parents can visit to find out about what's involved and many other details that group leaders are asked on a weekly basis. This site has two audience's: parents of youn skiers and snwboarders looking to find out what is involved and potentially join the NSC Junior Club programme and parents of young skiers and snowboarders that are aleardy part of this programme looking to find out about upcoming events and the weekly schedule.
 
-`python3 -m http.server`
+### User stories
 
-A blue button should appear to click: *Make Public*,
+#### Parents of Juniors looking to join goals
 
-Another blue button should appear to click: *Open Browser*.
+Parents of children aged 5 to 17 have a large amount of say about what sports and clubs their children are exposed to, therefore this website should give those parents and insight into the club and the activities, learning and fun their children can have whilst a part of the club.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+##### Parents goals are:
 
-A blue button should appear to click: *Make Public*,
+* Find information on session dates, times and pricing.
+* Find the minimum requirements and how to join the club.
+* Explore the different activities covered.
+* Read reviews and ratings.
+* View photos and videos of the group in action.
+* Find out about the instructors the would be teaching their children.
 
-Another blue button should appear to click: *Open Browser*.
+##### NSC Junior Club site is a great way to achieve these goals because:
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* Sections for general information regarding times, dates and minimum requirements are grouped together for clarity and user ease.
+* The planning and design process took all these needs into account before starting to build it.
+* Sections and pages are cleary defined including sections/pages for Testimonials, Gallery, events and more.
+* Navigation menu is fixed so provides a point of safety for the parents.
+* The overall feel to the site is that it flows nicely and uses the groups core colours to provide a consitant brand image and association with the club itself.
 
-## Updates Since The Instructional Video
+#### Parents of Juniors already in the club goals
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Parents of children already a part of the Juior Club are always looking for events and what their children will be learning next, therefore this website should give those parents a clear breakdown of the activites each week and upcoming events and camps.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+##### Parents goals are:
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+* View the weekly schedule of activites.
+* Find out about any upcoming event and camps.
+* View photos and videos of the group and potentially their children in action.
+* Find out any important updates.
+* Sign up to the newsletter.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+##### NSC Junior Club is a great way to help parents achieve these goals because:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* The planning and design process took all these needs into account before starting to build it.
+* Sections and pages are cleary defined including sections/pages for Events, Gallery, newsletter sign up and more.
+* Navigation menu is fixed so provides a point of safety for the parents.
+* The overall feel to the site is that it flows nicely and uses the groups core colours to provide a consitant brand image and association with the club itself.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+#### Wireframes
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+[Wireframes](https://github.com/CharlieS115/Junior-Club/blob/6024cb2d51c2fd67de1726549b4b77b1c848e382/assets/wireframes/Junior%20Club%20Wireframes.pdf)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
