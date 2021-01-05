@@ -56,6 +56,23 @@ Link to - [Wireframes](https://balsamiq.cloud/sg2nw91/ptckitt)
 
 The wireframes show the structure for the planned site. This site has a Home, Events and Gallery Page. The wireframes show how the site will look on a desktop, table and phone (Large+, medium and small screen sizes respectively)
 
+### Design Choices
+
+This site is design with parents in mind however some of the design choices have been made to give it that playful look as the site is about a junior club.
+
+#### Fonts
+
+* The primary font Architects Daughter was chosen because it resembles a childs had writing, is easily ledgable and has a playful feel to it.
+* The secondary font Exo was chosen as it is a familiar and clean easy to read font that will make reading bodies of text quick and easy.
+
+#### Icons
+
+#### Colours
+
+#### Styling
+
+#### Backgrounds
+
 ## Features
 
 ### Existing Features
@@ -76,7 +93,12 @@ The wireframes show the structure for the planned site. This site has a Home, Ev
 ## Technologies Used
 
 * Code Institutes Github Template
-*
+* [Boostrap](https://getbootstrap.com/)
+    * The project uses Bootstrap framework primarly for its grid system and ease of style html.
+* [Font Awesome](https://fontawesome.com/)
+    * The project uses Font Awesome for its icons.
+* [Google Fonts](https://fonts.google.com/)
+    * The project uses Google Fonts to style the font in a more appealing way for the user.
 
 ## Testing
 
