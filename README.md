@@ -61,5 +61,31 @@ The wireframes show the structure for the planned site. This site has a Home, Ev
 ### Existing Features
 
 * Fixed Navbar - Gives the users a piont of reference as allows for easy movement between the pages.
+* Defined Sections - Gives the user a clear point where each section finishes and a new one starts.
+* Responsive icons - Provides the user with a visual feedback when the hover over an icon that can be clicked to take them to the logical link.
+* Sign Up Modal - Allows the user to easily sign up with loosing their place on the page or site.
+* Events page - Clear space for users to find out everything about events.
 
 ### Potential Future Features
+
+* Results Page - A page users can visit to see results of recent events.
+* User Profiles - A login button to allow users to login to idvidual profiles.
+* Profile Page - This chould have information regarding to their childs performance with in the group including feedback, rankings, exercises and more.
+* Shop - Allows parents to purchase the junior club merchandise through an online store.
+
+## Technologies Used
+
+* Code Institutes Github Template
+*
+
+## Testing
+
+## Deployment
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements
